@@ -83,20 +83,36 @@ git checkout -b report
 
 ## История операций
 
-d700e6a | 2026-11-06 | 4515 Курилкин И.А. | Update project
-5decfb1 | 2026-11-06 | 4515 Курилкин И.А. | Update project
-57eaa74 | 2026-11-06 | 4515 Курилкин И.А. | Update project
-51dc7ed | 2026-11-06 | 4515 Курилкин И.А. | Update project
-2ba6af3 | 2026-11-06 | 4515 Курилкин И.А. | Add report files
-f4ac504 | 2026-11-06 | 4515 Курилкин И.А. | Report: add steps 1-4 with screenshots
-ad183cc | 2026-11-06 | 4515 Курилкин И.А. | Revert "Add notes.txt"
-5955ada | 2026-11-06 | 4515 Курилкин И.А. | Add notes.txt
-12d43e4 | 2026-11-06 | 4515 Курилкин И.А. | Update file1.txt: add second line
-94668f7 | 2026-11-06 | 4515 Курилкин И.А. | Add file1.txt with first line
-7a89c76 | 2026-11-06 | 4515 Курилкин И.А. | Merge feature into master, resolve conflict
-6e21452 | 2026-11-06 | 4515 Курилкин И.А. | Add conflict.txt in feature branch
-d19326d | 2026-11-06 | 4515 Курилкин И.А. | Add conflict.txt in master branch
-7643ce0 | 2026-11-06 | BruhManyMan | Create from_github.txt
-921f53b | 2020-11-21 | Kurtyanik | Обновление информации
-c08a654 | 2020-11-21 | Kurtyanik | Файл создан пустым
+d700e6a | 2026-11-06 | 4515 Курилкин И.А. | Update project 
+
+5decfb1 | 2026-11-06 | 4515 Курилкин И.А. | Update project 
+
+57eaa74 | 2026-11-06 | 4515 Курилкин И.А. | Update project 
+
+51dc7ed | 2026-11-06 | 4515 Курилкин И.А. | Update project 
+
+2ba6af3 | 2026-11-06 | 4515 Курилкин И.А. | Add report files 
+
+f4ac504 | 2026-11-06 | 4515 Курилкин И.А. | Report: add steps 1-4 with screenshots 
+
+ad183cc | 2026-11-06 | 4515 Курилкин И.А. | Revert "Add notes.txt" 
+
+5955ada | 2026-11-06 | 4515 Курилкин И.А. | Add notes.txt 
+
+12d43e4 | 2026-11-06 | 4515 Курилкин И.А. | Update file1.txt: add second line 
+
+94668f7 | 2026-11-06 | 4515 Курилкин И.А. | Add file1.txt with first line 
+
+7a89c76 | 2026-11-06 | 4515 Курилкин И.А. | Merge feature into master, resolve conflict 
+
+6e21452 | 2026-11-06 | 4515 Курилкин И.А. | Add conflict.txt in feature branch 
+
+d19326d | 2026-11-06 | 4515 Курилкин И.А. | Add conflict.txt in master branch 
+
+7643ce0 | 2026-11-06 | BruhManyMan | Create from_github.txt 
+
+921f53b | 2020-11-21 | Kurtyanik | Обновление информации 
+
+c08a654 | 2020-11-21 | Kurtyanik | Файл создан пустым 
+
 3c6e913 | 2020-11-21 | Kurtyanik | Initial commit
