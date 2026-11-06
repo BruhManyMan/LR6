@@ -51,7 +51,7 @@ Git установлен, указаны имя пользователя и emai
 ```bash
 git --version
 git config --global user.name "4515 Курилкин И.А."
-git config --global user.email "ваш_email"
+git config --global user.email "kurilkin2007@gmail.com"
 git clone https://github.com/BruhManyMan/LR6.git
 cd LR6
 git status
@@ -79,6 +79,10 @@ git add notes.txt
 git commit -m "Add notes.txt"
 git revert HEAD
 git checkout -b report
+git log --pretty=format:"%h | %ad | %an | %s" --date=short
+git add README.md history.txt
+git commit -m "Final report"
+git push origin report
 ```
 
 ## История операций
