@@ -23,7 +23,6 @@ Git установлен, указаны имя пользователя и emai
 ### 4. Добавление файла через GitHub и git pull
 Файл `from_github.txt` создан через интерфейс GitHub и подтянут в локальный репозиторий.
 
-![GitHub file](screenshots/05_github_file.png)
 ![Git pull](screenshots/06_pull.png)
 
 ### 5. История веток и последние изменения
